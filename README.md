@@ -1,5 +1,5 @@
 # ChessGameConsole
-Игра в шахматы. По координатам шахматной доски. Случайна генерация хода по нажатию клавиши Enter.
+Игра в шахматы. По координатам шахматной доски. Случайная генерация хода по нажатию клавиши Enter.
 
 Скачать программу в архиве (Release версия):
 https://drive.google.com/file/d/1ceCdpIVzkvz7JEVipFjp60wTfMv7cOpl/view?usp=sharing
